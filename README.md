@@ -1,4 +1,4 @@
-# a simple ping pong game
+# A simple ping pong game
 
 
 
